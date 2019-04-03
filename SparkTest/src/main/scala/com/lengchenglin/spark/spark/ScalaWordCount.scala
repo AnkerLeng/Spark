@@ -1,9 +1,9 @@
-package com.lengchenglin.spark.scala
+package com.lengchenglin.spark
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
-object SparkWordCount {
+object ScalaWordCount {
   def main(args: Array[String]): Unit = {
     //创建spark配置，设置应用程序名字
     val conf = new SparkConf().setAppName("ScalaWordCount")
