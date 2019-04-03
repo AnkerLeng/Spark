@@ -1,5 +1,6 @@
-package com.lengchenglin.spark
+package com.lengchenglin.spark.spark
 
+import com.lengchenglin.spark.JavaWordCount
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
