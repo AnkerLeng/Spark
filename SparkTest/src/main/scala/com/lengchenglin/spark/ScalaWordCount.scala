@@ -1,4 +1,4 @@
-package com.lengchenglin.spark.spark
+package com.lengchenglin.spark
 
 import com.lengchenglin.spark.JavaWordCount
 import org.apache.spark.rdd.RDD
